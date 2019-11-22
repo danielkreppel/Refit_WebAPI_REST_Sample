@@ -1,0 +1,8 @@
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Poliedro.SincronizaSeidorEdros.Models.dll
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Poliedro.SincronizaSeidorEdros.Models.pdb
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.csproj.CoreCompileInputs.cache
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.csproj.CopyComplete
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.dll
+D:\Repo\Console Applications\SincronizaEscolasEdros-SeidorEdros\SincronizaEscolasEdros\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\Common.Models\bin\Debug\Poliedro.SincronizaSeidorEdros.Models.dll
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\Common.Models\bin\Debug\Poliedro.SincronizaSeidorEdros.Models.pdb
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\Common.Models\obj\Debug\Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\Common.Models\obj\Debug\Common.Models.csproj.CopyComplete
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\Common.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.dll
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\Common.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.pdb

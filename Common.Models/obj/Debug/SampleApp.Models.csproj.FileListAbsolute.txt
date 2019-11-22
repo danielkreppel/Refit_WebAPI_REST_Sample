@@ -1,0 +1,8 @@
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Poliedro.SincronizaSeidorEdros.Models.dll
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Poliedro.SincronizaSeidorEdros.Models.pdb
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\SampleApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\SampleApp.Models.csproj.CopyComplete
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.dll
+C:\Users\Pc\Documents\Desenvolvimento\GitHub\REST_Refit_Sample\ConsoleConsumerRefitREST\Poliedro.SincronizaSeidorEdros.Models\obj\Debug\Poliedro.SincronizaSeidorEdros.Models.pdb
